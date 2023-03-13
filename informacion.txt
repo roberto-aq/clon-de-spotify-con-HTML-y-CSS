@@ -1,0 +1,58 @@
+# ************************************ #
+#            Concentración:            #
+# ************************************ #
+titulo: Peaceful Piano
+Descripción: Relax and indulge with beautiful piano pieces
+----------------------------------------------
+titulo: Deep Focus
+Descripción: Keep calm and focus with ambient and post-rock music.
+----------------------------------------------
+titulo: Instrumental Study
+Descripción: Focus with soft study music in the background.
+----------------------------------------------
+titulo: Jazz Vibes
+Descripción: The original chill instrumental beats playlist.
+----------------------------------------------
+titulo: Focus Flow
+Descripción: Uptempo instrumental hip hop beats.
+----------------------------------------------
+titulo: Workday Lounge
+Descripción: Lounge and chill out music for your workday.
+----------------------------------------------
+titulo: Beats to think to
+Descripción: Focus with deep techno and tech house.
+----------------------------------------------
+
+# ************************************ #
+#          Spotify Playlists:          #
+# ************************************ #
+titulo: Today's Top Hits
+Descripción: Miley Cyrus is on top of the Hottest 50!
+----------------------------------------------
+titulo: RapCaviar
+Descripción: New music from Metro Boomin, NLE Choppa and Rae Sremmurd. 
+----------------------------------------------
+titulo: All Out 2010s
+Descripción: The biggest songs of the 2010s. 
+----------------------------------------------
+titulo: Rock Classics
+Descripción: Rock legends & epic songs that continue to inspire generations. Cover: Foo Fighters
+----------------------------------------------
+titulo: Chill Hits
+Descripción: Kick back to the best new and recent chill hits.
+----------------------------------------------
+titulo: Viva Latino
+Descripción: Today's top Latin hits, elevando nuestra música. Cover: Yandel & Feid
+----------------------------------------------
+titulo: Mega Hit Mix
+Descripción: A mega mix of 75 favorites from the last few years! 
+----------------------------------------------
+
+# ************************************ #
+#             Links legales            #
+# ************************************ #
+Legal -> https://www.spotify.com/ec/legal/
+Centro de Privacidad -> https://www.spotify.com/ec/privacy/
+Política de Privacidad -> https://www.spotify.com/ec/legal/privacy-policy/
+Cookies -> https://www.spotify.com/ec/legal/cookies-policy/
+Información sobre los anuncios -> https://www.spotify.com/ec/legal/privacy-policy/#s3
